@@ -1,6 +1,6 @@
 Clone the Repository:
 
-git clone https://github.com/your-username/flask-regex-matcher.git
+git clone (https://github.com/ankur9554/RegX-Extractor.git)
 cd flask-regex-matcher
 
 Set Up the Environment:
